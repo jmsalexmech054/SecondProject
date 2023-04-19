@@ -4,7 +4,7 @@ public class GitPractice {
 	
 	public static void main(String[] args) {
 		
-		String a="Jerric Rovan ";
+		String a="Jerric Rovan";
 		System.out.println(a);
 	}
 
